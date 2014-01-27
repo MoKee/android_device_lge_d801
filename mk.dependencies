@@ -10,5 +10,9 @@
  {
    "repository": "android_vendor_lge_d801",
    "target_path": "vendor/lge/d801"
+ },
+ {
+   "repository": "android_vendor_lge_d802",
+   "target_path": "vendor/lge/d802"
  }
 ]
